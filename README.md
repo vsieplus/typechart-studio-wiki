@@ -1,2 +1,2 @@
 # typechart-studio-wiki
-Temporary wiki for Typechart Studio
+This repository temporarily houses the github wiki for Typechart Studio.
